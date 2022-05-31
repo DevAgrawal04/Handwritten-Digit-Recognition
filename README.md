@@ -17,3 +17,6 @@ standard databases that allow different approaches to be compared and validated.
 handwritten digit recognition is the solution to this problem which uses the image of a digit 
 and recognizes the digit present in the image. The popular MNIST dataset is used to classify 
 the digits between 0-9. SVM Algorithm is used to build model that gives the best accuracy.
+
+
+(Refer to ML-MAJOR-MAY.pdf for a detailed analysis)
