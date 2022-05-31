@@ -2,6 +2,7 @@
 A model using Support Vector Machine (SVM) which can correctly classify the handwritten digits from 0-9 based on the pixel values given as features.
 
 INTRODUCTION:
+
 The handwritten digit recognition is the ability of computers to recognize human 
 handwritten digits. It is a hard task for the machine because handwritten digits are not 
 perfect and can be made with many different flavours. Handwritten digit recognition is a 
